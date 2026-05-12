@@ -7,7 +7,7 @@ bashgit config --global user.name "Your Full Name"
 git config --global user.email "your@email.com"
 
 Clone the Repository:
-git clone https://github.com/OWNER/cs-group-project.git
+git clone https://github.com/mxttttxzy/Computer-Science-NetConnect.git
 cd cs-group-project
 
 Every Time You Work on the Project 
